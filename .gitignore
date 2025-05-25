@@ -2,8 +2,4 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/dynamiccampus_db/FileContentIndex/051b4565-bd2f-4a92-bf6c-a2766ed93342.vsidx
-/.vs/dynamiccampus_db/FileContentIndex/082ae8ff-c13a-4f1c-b181-0aeda866f751.vsidx
-/.vs/dynamiccampus_db/FileContentIndex/2b0ba052-b119-48b6-aa15-52d971415d89.vsidx
-/.vs/dynamiccampus_db/FileContentIndex/410eeca1-859f-4f9f-a534-b64908d4838f.vsidx
-*.vsidx
+/.vs
