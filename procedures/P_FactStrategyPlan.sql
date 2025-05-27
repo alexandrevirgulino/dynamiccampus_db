@@ -13,7 +13,7 @@ CREATE PROC [dbo].[P_FactStrategyPlan]
 	@SpringAdCost float,
 	@BackSchool float,
 	@HolidayAdCost float,
-	@CostofGoodsSold int,
+	@CostofGoodsSold float,
 	@SellCost float
 )
 AS
